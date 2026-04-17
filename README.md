@@ -26,6 +26,7 @@ Developed an interactive HR analytics dashboard to analyze employee performance,
 
 * Power BI dashboard (.pbix)
 * Screenshots of reports
+* Dataset
 
 ## 📷 Dashboard Preview
 
