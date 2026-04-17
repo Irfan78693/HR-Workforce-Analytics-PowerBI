@@ -29,7 +29,7 @@ Developed an interactive HR analytics dashboard to analyze employee performance,
 
 ## 📷 Dashboard Preview
 
-
+![output.png](images\output.png)
 
 ## 🚀 Conclusion
 
